@@ -1,0 +1,38 @@
+.navbar{
+padding: 40px;
+background-color: indianred;
+border-radius: 10px;
+}
+navbar:active , .navbar:hover{
+    background-color: rgb(238, 95, 95);
+}
+.navbaryazi{
+text-decoration: none;
+color: aliceblue;
+margin: 15px;
+}
+.baslikh{
+text-align: center;
+color: rgb(94, 94, 94);
+}
+.blog{
+    width: 350px;
+    height: 400px;
+    background-color: blanchedalmond;
+    border-radius: 15px;
+    float: left;
+    margin: 60px;
+}
+.has{
+margin-left: 20px;
+margin-top: 10px;
+}
+.p{
+margin-top: 20px;
+margin-left: 15px;
+}
+.resim1{
+border-radius: 10px;
+margin-left: 20px;
+
+}
